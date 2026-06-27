@@ -8,7 +8,7 @@ the key factors influencing employee attrition and predict whether an employee i
 combining **exploratory data analysis (EDA), machine learning pipeline and interactive dashboard.**
 
 ## Dataset 
-[Download](IBM_Employee_Attrition.csv)
+[Download](IBM-Employee-Attrition.csv)
 
 
 The dataset contains the following features:
@@ -16,8 +16,10 @@ The dataset contains the following features:
 
 
 • Attrition (Target Variable)
-   • Yes
-   • No
+
+          • Yes
+   
+          • No
 
 • Demographic details of employees
 
@@ -44,11 +46,17 @@ The dataset contains the following features:
 
 ## Tools And Technologies
 Python
+
 Pandas
+
 Matplotlib
+
 Scikit-learn
+
 Imbalanced-learn
+
 Google Colab
+
 Power BI
 
 
@@ -99,8 +107,6 @@ Performance metrics used:
 
 • ROC-AUC Score
 
-• Accuracy Score
-
 • Classification Report
 
 ## Data Visualization
@@ -113,7 +119,8 @@ The dashboard provides insights to important HR metrics and employee attrition p
 
 ## Results and Conclusion
 The project compare multiple machine learning models to determine the best performing classifier for employee attrition
-prediction. Hyperparameter tuning and cross-validation are used to improve robustness and avoid overfitting.
+prediction. Hyperparameter tuning and cross-validation are used to improve robustness and avoid overfitting. Logistic Regression performs the best
+against the other classifiers with roc_auc score of 70.65%
 
 
 • Employee Attrition rate is **16%**
