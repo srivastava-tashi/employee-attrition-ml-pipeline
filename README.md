@@ -8,7 +8,7 @@ the key factors influencing employee attrition and predict whether an employee i
 combining **exploratory data analysis (EDA), model optimization technique and interactive dashboard.**
 
 ## Problem Statement
-As employee attrition increases, identifying the primary contributers to attrition through predictive analytics helps organization optimize retention and reduce the financial burden of recruitment. 
+As employee attrition increases, identifying the primary contributors to attrition through predictive analytics helps organization optimize retention and reduce the financial burden of recruitment. 
 
 
 ## Dataset 
