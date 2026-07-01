@@ -5,7 +5,11 @@ hyperparameter tuning and Power BI dashboard.
 ## Project Overview
 This project analyzes employee attrition using the IBM HR Analytics Employee Attrition dataset. To identify
 the key factors influencing employee attrition and predict whether an employee is likely to leave the organisation by 
-combining **exploratory data analysis (EDA), machine learning pipeline and interactive dashboard.**
+combining **exploratory data analysis (EDA), model optimization technique and interactive dashboard.**
+
+## Problem Statement
+As employee attrition increases, identifying the primary contributers to attrition through predictive analytics helps organization optimize retention and reduce the financial burden of recruitment. 
+
 
 ## Dataset 
 [Download](IBM-Employee-Attrition.csv)
@@ -120,7 +124,7 @@ The dashboard provides insights to important HR metrics and employee attrition p
 ## Results and Conclusion
 The project compare multiple machine learning models to determine the best performing classifier for employee attrition
 prediction. Hyperparameter tuning and cross-validation are used to improve robustness and avoid overfitting. Logistic Regression performs the best
-against the other classifiers with roc_auc score of 70.65%
+against the other classifiers with roc_auc score of **70.65%**
 
 
 • Employee Attrition rate is **16%**
